@@ -3,10 +3,12 @@
 ## Introduction
 Welcome to my GitHub! I'm currently exploring Big Data and learning more about its vast potential. 
 
-## My Definition of Big Data
-Big Data refers to large and complex datasets that traditional data processing tools can't handle efficiently. It involves not just the size of the data, but also its variety and the speed at which it's generated, requiring advanced tools and techniques to derive meaningful insights.
+## My definition of Big Data
+Big Data is all about huge, complex datasets that entry-level tools can’t easily handle.
+It’s not just the size that matters, but also the different types of data (variety), complexity, and how fast(velocity) it's coming in. 
+To make sense of it, we need smarter tools and techniques to find useful insights hidden in all that information
 
-## Visit My the course website
+## Visit the course website
 [Click here to visit the course website](https://sdsu.instructure.com/courses/162125)
 
 ## A placeholder image of a cat 
